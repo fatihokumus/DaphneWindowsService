@@ -1,0 +1,17 @@
+D:\Downloads\TestWindowService\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+D:\Downloads\TestWindowService\TestWindowService\obj\Debug\daphneservice.csproj.GenerateResource.cache
+D:\Downloads\TestWindowService\TestWindowService\obj\Debug\daphneservice.csproj.CoreCompileInputs.cache
+D:\Downloads\TestWindowService\TestWindowService\bin\Debug\daphneservice.exe.config
+D:\Downloads\TestWindowService\TestWindowService\bin\Debug\daphneservice.exe
+D:\Downloads\TestWindowService\TestWindowService\bin\Debug\daphneservice.pdb
+D:\Downloads\TestWindowService\TestWindowService\obj\Debug\daphneservice.exe
+D:\Downloads\TestWindowService\TestWindowService\obj\Debug\daphneservice.pdb
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\bin\Debug\daphneservice.exe.config
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\bin\Debug\daphneservice.exe
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\bin\Debug\daphneservice.pdb
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\obj\Debug\daphneservice.csprojAssemblyReference.cache
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\obj\Debug\daphneservice.csproj.GenerateResource.cache
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\obj\Debug\daphneservice.csproj.CoreCompileInputs.cache
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\obj\Debug\daphneservice.exe
+C:\Users\fatih.okumus\Downloads\daphneservice\daphneservice\TestWindowService\obj\Debug\daphneservice.pdb
